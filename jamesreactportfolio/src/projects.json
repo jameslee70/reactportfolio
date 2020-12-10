@@ -1,0 +1,72 @@
+[
+    {
+        "id": "home1",
+        "image": "images/findyourbrewery.png",
+        "name":"Find Your Brewery!",
+        "description": "Lookibg for a place to drink? Well look no further. Using this app, you'll be able to search for bars near your area along with the weather as well.",
+        "tech": "HTML, CSS, JS, openbrewery API",
+        "github": "https://github.com/jameslee70/FirstProject",
+        "site": "https://jameslee70.github.io/FirstProject/"
+    },
+    {
+        "id": "home2",
+        "image": "images/halloweenmovienight.png",
+        "name":"Halloween Movie Night",
+        "description": "Don't worry about planning your Halloween because we got that covered! With a movie and candy generator, you can generate whayou want to do that night. There is also a fun Halloween quiz that tests your knowledge on Halloween lore.",
+        "tech": "HTML, CSS, mySQL, Heroku, Handlebars, Node",
+        "github": "https://github.com/dallisconner/Project-Two",
+        "site": "https://project-two20.herokuapp.com/"
+    },
+    {
+        "id": 1,
+        "image": "images/weatherdashboard.PNG",
+        "name":"Weather Dashboard",
+        "description": " Look up 5 day forecasts of cities that you type in.",
+        "tech": "HTML, CSS, JavaScript, jQuery, Moment.js. OpenWeather API",
+        "github": "https://github.com/jameslee70/Homework-Assignment-6",
+        "site": "https://jameslee70.github.io/Homework-Assignment-6/"
+    },
+    {
+        "id": 2,
+        "image":"images/codequiz.PNG",
+        "name":"Code Quiz",
+        "description": "A timed quiz where your Javascript knowledge is tested!",
+        "tech": "HTML, CSS, Bootstrap, JavaScript",
+        "github": "https://github.com/jameslee70/Homework-Assignment-4",
+        "site": "https://jameslee70.github.io/Homework-Assignment-4/"
+    },
+    {
+        "id": 3,
+        "image": "images/dayplanner.PNG",
+        "name":"Day Planner",
+        "description": "An app that is used to schedule events by the hour.",
+        "github": "https://github.com/jameslee70/Homework-Assignment-5",
+        "site": "https://jameslee70.github.io/Homework-Assignment-5/"
+    },
+    {
+        "id": 4,
+        "image": "images/passwordgenerator.PNG",
+        "name":"Password Generator",
+        "description": "Prompts are generated, asking what characters you want your password to be.",
+        "github": "https://github.com/jameslee70/Homework-Assignment-3",
+        "site": "https://jameslee70.github.io/Homework-Assignment-3/"
+    },
+    {
+        "id": 6,
+        "image": "images/readmegen.PNG",
+        "name":"ReadMe Generator",
+        "description": "App used to generate a readMe.",
+        "tech": "JavaScript",
+        "github": "https://github.com/jameslee70/Homework-9",
+        "site": "https://jameslee70.github.io/Homework-9/"
+    },
+    {
+        "id": 8,
+        "image": "images/fitnesstracker.PNG",
+        "name":"Fitness Tracker",
+        "description": "Application that allows you to add custom workouts and track them.",
+        "tech": "JavaScript, Heroku",
+        "github": "https://github.com/jameslee70/fitnesstracker",
+        "site": "https://fitnesstrackerunccbootcamp.herokuapp.com/"
+    }    
+]
